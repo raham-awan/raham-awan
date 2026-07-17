@@ -6,19 +6,22 @@ I build AI automation that does real work: agents wired into business operations
 
 ## What I work on
 
-- AI agents and workflows built on Claude, doing real operational work
-- Automation pipelines: outreach systems, ad creative generation, video production (ffmpeg, Remotion, Whisper)
+- AI agents and workflows built on Claude and OpenClaw, doing real operational work
+- Automation pipelines: outreach systems, ad creative generation, video production (ffmpeg, Remotion, Whisper, Higgsfield)
 - Web builds in Next.js, engineered to be found and cited by search engines and AI assistants
 
 ## Toolbox
 
-TypeScript, Node.js, Next.js, Python, Claude API and Claude Code, ffmpeg, Remotion
+- AI and agents: Claude API, Claude Code, OpenClaw, Cursor
+- Video and motion: Remotion, ffmpeg, Whisper, Higgsfield
+- Design: Figma
+- Code: TypeScript, Node.js, Next.js, Python
 
 ## Now
 
 - Building AI-first operations at CodexQuill
 - Shipping an AI-visibility-first portfolio site for a Top Rated Plus designer
- 
+
 ## Reach me
- 
+
 Website: [codexquill.com](https://codexquill.com)

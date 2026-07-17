@@ -12,11 +12,12 @@ I build AI automation that does real work: agents wired into business operations
 
 ## Toolbox
 
-- AI and agents: Claude API, Claude Code, OpenClaw, Cursor, MCP servers
-- Video and motion: Remotion, ffmpeg, Whisper, Higgsfield
+- AI and agents: Claude API, Claude Code, OpenClaw, Cursor, MCP servers, n8n, Playwright, Ollama
+- Evals and monitoring: Langfuse, Promptfoo, Sentry
+- Video and voice: Remotion, ffmpeg, Whisper, Higgsfield, ElevenLabs
 - Design: Figma
-- Code: TypeScript, Node.js, Next.js, Python
-- Shipping: Vercel, Netlify, GitHub
+- Code: TypeScript, Node.js, Next.js, Python, Zod, Postgres
+- Shipping: Vercel, Netlify, Docker, GitHub Actions, Cloudflare
 - Ops and knowledge: Notion, Obsidian, Instantly
 
 ## Now
